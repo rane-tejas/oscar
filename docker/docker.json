@@ -1,0 +1,6 @@
+{
+    "image_name": "tejasr/mbrl",
+    "container_name": "tejasr_oscar",
+    "dockerfile": "mbrl2.dockerfile",
+    "isaacgym_path": "/home/vinit/khusha/isaacgym"
+}
